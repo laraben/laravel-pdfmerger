@@ -108,7 +108,7 @@ If you discover any security related issues, please email github@webklex.com ins
 
 ## Credits
 
-- [LARABEN] [link-dev]
+- [LARABEN][link-dev]
 - [Webklex][link-author]
 - All Contributors
 
