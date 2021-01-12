@@ -108,6 +108,7 @@ If you discover any security related issues, please email github@webklex.com ins
 
 ## Credits
 
+- [LARABEN] [link-dev]
 - [Webklex][link-author]
 - All Contributors
 
@@ -128,3 +129,4 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [link-code-quality]: https://scrutinizer-ci.com/g/Webklex/laravel-pdfmerger
 [link-downloads]: https://packagist.org/packages/Webklex/laravel-pdfmerger
 [link-author]: https://github.com/webklex
+[link-dev]: https://github.com/laraben
