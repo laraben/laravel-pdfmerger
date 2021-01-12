@@ -11,7 +11,7 @@
 Via Composer
 
 ``` bash
-$ composer require webklex/laravel-pdfmerger
+$ composer require laraben/laravel-pdfmerger
 ```
 
 ## Setup
@@ -21,12 +21,12 @@ Add the service provider to the providers array in `config/app.php`.
 ``` php
 'providers' => [
     ...
-    Webklex\PDFMerger\Providers\PDFMergerServiceProvider::class
+    laraben\PDFMerger\Providers\PDFMergerServiceProvider::class
 ],
 
 'aliases' => [
     ...
-    'PDFMerger' => Webklex\PDFMerger\Facades\PDFMergerFacade::class
+    'PDFMerger' => laraben\PDFMerger\Facades\PDFMergerFacade::class
 ]
 ```
 
