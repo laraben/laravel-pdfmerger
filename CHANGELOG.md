@@ -1,16 +1,15 @@
 # Changelog
 
-All notable changes to `webklex/laravel-pdfmerger` will be documented in this file.
+All notable changes to `laraben/laravel-pdfmerger` will be documented in this file.
 
 Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) principles.
 
-## [Unreleased]
+## [1.2] (2021-01-11)
 
 ### Added
- - NaN
- 
-### Fixed 
- - NaN
+ - Setasign package instead of itbz (deprecated) package
+ - Auto detection of orientation
+
  
 ## [1.1.0] (2018-05-29)
 
