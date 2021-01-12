@@ -21,12 +21,12 @@ Add the service provider to the providers array in `config/app.php`.
 ``` php
 'providers' => [
     ...
-    laraben\PDFMerger\Providers\PDFMergerServiceProvider::class
+    Laraben\PDFMerger\Providers\PDFMergerServiceProvider::class
 ],
 
 'aliases' => [
     ...
-    'PDFMerger' => laraben\PDFMerger\Facades\PDFMergerFacade::class
+    'PDFMerger' => Laraben\PDFMerger\Facades\PDFMergerFacade::class
 ]
 ```
 
@@ -34,7 +34,7 @@ Add the service provider to the providers array in `config/app.php`.
 A basic usage example:
 
 ``` php
-use Webklex\PDFMerger\Facades\PDFMergerFacade as PDFMerger;
+use Laraben\PDFMerger\Facades\PDFMergerFacade as PDFMerger;
 
 $oMerger = PDFMerger::init();
 
