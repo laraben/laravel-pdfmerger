@@ -3,6 +3,7 @@
     "type": "library",
     "description": "Generic PDF merger for Laravel",
     "keywords": [
+        "laraben",
         "webklex",
         "laravel",
         "pdf",
