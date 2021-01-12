@@ -24,7 +24,7 @@
         }
     ],
     "require": {
-        "php": ">=5.5.9",
+        "php": ">=7.3",
         "illuminate/support": ">=5.0",
         "setasign/fpdf": "1.8.*",
         "setasign/fpdi": "^2.0"
@@ -36,12 +36,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Webklex\\PDFMerger\\": "src/PDFMerger"
+            "Laraben\\PDFMerger\\": "src/PDFMerger"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Webklex\\PDFMerger\\Test\\": "tests"
+            "Laraben\\PDFMerger\\Test\\": "tests"
         }
     },
     "scripts": {
