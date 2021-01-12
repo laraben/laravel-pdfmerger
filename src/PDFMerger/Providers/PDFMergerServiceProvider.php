@@ -13,7 +13,7 @@
 namespace Laraben\PDFMerger\Providers;
 
 use Illuminate\Support\ServiceProvider;
-use Webklex\PDFMerger\PDFMerger;
+use Laraben\PDFMerger\PDFMerger;
 
 class PDFMergerServiceProvider extends ServiceProvider
 {
